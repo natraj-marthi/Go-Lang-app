@@ -1,5 +1,5 @@
 package main
 
-func main(){
+func SayHello(){
 return  "Hello from Nats Go App"
 }
