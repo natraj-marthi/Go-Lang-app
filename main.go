@@ -8,7 +8,7 @@ import (
 
 	"github.com/gorilla/mux"
 	// folder path.
-	"github.com/teraSurfer/go-react/services"
+	"github.com/natraj-marthi/Go-Lang-app"
 )
 
 func status(w http.ResponseWriter, r *http.Request) {
