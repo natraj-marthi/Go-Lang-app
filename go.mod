@@ -1,4 +1,4 @@
-module github.com/teraSurfer/go-react
+module github.com/natraj-marthi/Go-Lang-app
 
 go 1.13
 
